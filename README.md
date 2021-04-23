@@ -8,3 +8,4 @@ This challenge involves creating:
 - Line graphs
 With Matplotlib and Pandas after cleaning and grouping data on anti-cancer treatment drugs in mice.
 
+The process is outlined in this JupyterNotebook [Here](https://github.com/Jeffsfine/matplotlib-challenge/blob/main/Pymaceuticals/pymaceuticals_starter.ipynb)
